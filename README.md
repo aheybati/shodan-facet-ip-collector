@@ -239,4 +239,3 @@ This tool is intended for **authorized security research and educational purpose
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 **Author:** Abbas Heybati
-س
