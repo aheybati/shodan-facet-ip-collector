@@ -1,4 +1,4 @@
-# 🔍 Shodan Facet IP Collector — aheybati Scanner v2.3
+# 🔍 Shodan Facet IP Collector — aheybati Scanner v3.1
 
 **Extract IP addresses from Shodan without API credits — using facet pages with smart sub-querying.**
 
